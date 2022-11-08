@@ -6,7 +6,7 @@ import { Model } from './gdsc-model'
 export default function GdscCanvas() {
 
   return (
-    <Flex alignItems='center' justifyContent="center">
+    <Flex alignItems='center' justifyContent="center" width="20vw">
 
             <Box w={['65vw', '35vw']} h={['40vh', '60vh']}>
             <Canvas camera={{ fov: 45, position: [4, 4, 6]}}>
