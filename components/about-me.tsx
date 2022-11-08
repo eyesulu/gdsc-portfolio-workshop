@@ -8,7 +8,7 @@ export default function AboutMe() {
         About Me
       </Heading>
       <Text fontSize="display3" color="textSecondary">
-          Student blablabla
+          Student
       </Text>
     </VStack>
 
